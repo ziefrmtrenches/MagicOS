@@ -1,1 +1,1 @@
-# MagicOS
+# MagicOS_web
